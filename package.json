@@ -1,6 +1,7 @@
 {
   "name": "indexifier",
   "description": "Generate an index from a directory",
+  "version": "3.0.0",
   "main": "index.js",
   "bin": "bin/index.js",
   "engines": {
